@@ -1,0 +1,1 @@
+This project attempts to use the Fashion MNIST (https://github.com/zalandoresearch/fashion-mnist) dataset to cluster images of clothing based on stylistic attributes of the articles of clothing in the photos.
